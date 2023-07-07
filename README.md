@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/348324/screenshots/13450284/media/628e77a2db9997b7b716f2f989b7985c.mp4)](https://github.com/krishna100k)
+[![MasterHead](https://gifdb.com/images/high/animated-cowboy-computer-coding-w60pcikl6ieg525n.webp)](https://github.com/krishna100k)
 <h1 align="center">Hi 👋, I'm Krishnaprasad Awala</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="350" src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif">
