@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://cdn.dribbble.com/users/348324/screenshots/13450284/media/628e77a2db9997b7b716f2f989b7985c.mp4)](https://github.com/krishna100k)
 <h1 align="center">Hi 👋, I'm Krishnaprasad Awala</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://media.giphy.com/media/UPqYp2tj61XlBhlPbH/giphy.gif)">
